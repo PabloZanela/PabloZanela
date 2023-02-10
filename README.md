@@ -9,7 +9,7 @@
 
 - ✉️ Contate-me no email: pablozp01@hotmail.com
 
-
+<br><br>
 ## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<br><br>
 ## 💻 Social
 
 <p align="left" style="background:yellow">
