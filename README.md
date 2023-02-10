@@ -34,7 +34,7 @@
 </a>
 </p>
 
-
+<br><br>
 
 ## ⚙️ &nbsp;Estatisticas GitHub
 
@@ -43,21 +43,3 @@
 <img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZanela&layout=compact&theme=vision-friendly-dark" alt="PabloZanela's most languages"/>
 </p>
 
-<!--
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/Zanelapablo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Zanelapablo-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/pablo-zanela" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-PabloZanela-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/pablo_zanela" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-pablo_zanela-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
--->
