@@ -9,6 +9,7 @@
 
 - ✉️ Contate-me no email: pablozp01@hotmail.com
 
+
 ## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,6 +18,23 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+## 💻 Social
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/Zanelapablo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Zanelapablo-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/PabloZanela" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-PabloZanela-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/pablo_zanela" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-pablo_zanela-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+
 
 ## ⚙️ &nbsp;Estatisticas GitHub
 
