@@ -24,8 +24,8 @@
 ## ⚙️ &nbsp;Estatisticas GitHub
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=PabloZanela&show_icons=true&theme=vision-friendly-dark" alt="PabloZanela's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZanela&layout=compact&theme=vision-friendly-dark" alt="PabloZanela's most languages"/>
+<img width="490em" src="https://github-readme-stats.vercel.app/api?username=PabloZanela&show_icons=true&theme=vision-friendly-dark" alt="PabloZanela's stats"/>
+<img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZanela&layout=compact&theme=vision-friendly-dark" alt="PabloZanela's most languages"/>
 </p>
 
 <!--
