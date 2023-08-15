@@ -2,14 +2,14 @@
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Pablo Zanela !!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PabloZanela&color=yellow" alt="Profile views" /> </p>
 
-
+<!--
 - 🚀 Buscando minha primeira oportunidade como dev
 
 - 📕 Estudando Front-end
 
 - ✉️ Contate-me no email: pablozp01@hotmail.com
+-->
 
-<br><br>
 ## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
